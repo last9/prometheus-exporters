@@ -26,6 +26,7 @@ This repository contains a curated list of standard Prometheus exporters for var
 | JMX | [JMX Exporter](https://github.com/prometheus/jmx_exporter) | Metrics from applications exposing JMX metrics |
 | Blackbox Exporter | [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) | Probing of HTTP/HTTPS, DNS, TCP and ICMP endpoints |
 | Kafka Exporter |  [danielqsj/kafka_exporter](https://github.com/danielqsj/kafka_exporter) | Kafka metrics |
+| PHP-FPM Exporter | [hipages/php-fpm exporter](https://github.com/hipages/php-fpm_exporter) | PHP-FPM metrics |
 
 
 ### Guide
